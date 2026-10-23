@@ -31,7 +31,8 @@ The dataset was cleaned and transformed in Power Query before building the dashb
 ## 📚 Data Source
 Dataset obtained from an online Coursera course and used for learning and portfolio development.
 
-## 👨‍💻 Author
-**Shrenik More**
+👨‍💻 Author
+Shrenik Vitthalrao More
+Aspiring Data Analyst | Power BI | SQL | Python | Excel
 
 GitHub: [shrenikmore](https://github.com/shrenikmore)
