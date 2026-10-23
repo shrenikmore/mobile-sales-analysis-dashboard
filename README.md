@@ -31,6 +31,18 @@ The dataset was cleaned and transformed in Power Query before building the dashb
 ## 📚 Data Source
 Dataset obtained from an online Coursera course and used for learning and portfolio development.
 
+## 📊 Key Analysis
+- Monthly mobile sales performance
+- Sales trends and product performance
+- Customer ratings analysis
+- Payment method analysis
+
+## 🛠️ Skills Demonstrated
+- Data Cleaning and Transformation using Power Query
+- Data Modeling and Calculations using DAX
+- Interactive Dashboard Design using Power BI
+- Data Visualization and Business Analysis
+- 
 👨‍💻 Author
 Shrenik Vitthalrao More
 Aspiring Data Analyst | Power BI | SQL | Python | Excel
